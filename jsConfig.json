@@ -6,6 +6,7 @@
             "@wdio/mocha-framework"
         ]
     },
+    
     "exclude": [
         "node_module"
     ]
